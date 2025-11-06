@@ -1,6 +1,6 @@
 https://batorgabora.github.io/form-web-project/
 
-This is the second WEB Assignment at VIA only using html and js.
+This is the second WEB Assignment at VIA only using html and js. <br>
 Job application form.
 
 
