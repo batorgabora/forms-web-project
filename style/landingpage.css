@@ -14,8 +14,9 @@ body {
     height: auto;
     margin-top: 50px;
     margin-left: 5%;
-    border-radius: 15px;
+    border-radius: 20px;
 }
+
 
 .title{
     color: #2B2A76;
@@ -35,21 +36,6 @@ p{
     margin-left: 50px;
 }
 
-button{
-    background-color: #0cb291;
-    border-radius: 4px;   
-}
-
-.button{
-    height: 40px;
-    width: 150px;
-    border-radius: 6px
-    padding: 20px;
-}
-.apply{
-    text-decoration: none;
-    color: white;
-}
 .buttoncenter{
     margin-top: 5%;
     margin-bottom: 5%;
@@ -61,8 +47,6 @@ button{
     font-size: 30px;
     text-decoration: none;
     font-style: italic;
-    
-    
     border: 2px solid #0cb291;
     background-color: #0cb291;
     padding: 15px 30px 15px 30px;
@@ -89,9 +73,7 @@ button{
     }
 
     .buttonApply{
-    
     padding: 10px 20px 10px 30px;
-    
 }
     p{
         margin-left: 2%;
