@@ -47,7 +47,7 @@ button{
     height: 40px;
     width: 150px;
     border-radius: 6px
-    
+    padding: 20px;
 }
 .apply{
     text-decoration: none;
